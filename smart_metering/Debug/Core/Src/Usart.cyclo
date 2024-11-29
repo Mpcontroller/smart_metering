@@ -1,0 +1,5 @@
+../Drivers/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1809:22:__NVIC_SetPriority	2
+../Core/Src/Usart.c:18:13:Usart_Init	5
+../Core/Src/Usart.c:70:6:USART2_IRQHandler	1
+../Core/Src/Usart.c:75:6:USART3_IRQHandler	1

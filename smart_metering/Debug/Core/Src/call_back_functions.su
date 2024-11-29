@@ -1,0 +1,4 @@
+../Core/Src/call_back_functions.c:28:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/call_back_functions.c:59:6:HAL_UART_TxCpltCallback	16	static
+../Core/Src/call_back_functions.c:88:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/call_back_functions.c:123:6:HAL_ADC_ConvCpltCallback	16	static
